@@ -18,8 +18,8 @@ Built with **vanilla JavaScript**, HTML, and CSS — easy to integrate into any 
 
 ## Demo
 
-![Screenshot Light Theme](./screenshots/light-theme.png)  
-![Screenshot Dark Theme](./screenshots/dark-theme.png)  
+![Screenshot Light Theme](light-theme.png)  
+![Screenshot Dark Theme](dark-theme.png)  
 
 You can try the live demo by opening `index.html` in your browser.
 
