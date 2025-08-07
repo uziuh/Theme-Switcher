@@ -1,4 +1,4 @@
-# Glassmorphic Theme Switcher
+# Theme Switcher
 
 A minimal, open source **light/dark theme switcher** with modern glassmorphism (transparent UI) effects.  
 Built with **vanilla JavaScript**, HTML, and CSS — easy to integrate into any project.
